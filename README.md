@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 
 
-## Testing Guidance
+# Testing Guidance
 
 ### Prerequisites
 - Ensure you have Node.js and npm installed on your machine.
