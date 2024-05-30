@@ -42,29 +42,19 @@ npm run dev
 - Enter a task in the input field.
 - Click the "Save" button.
 - Verify that the new task appears in the list below.
-- Check the local storage in your browser's developer tools to ensure the task is saved.
-#### Page Refresh
-- Refresh the browser page.
-- Verify that the previously added tasks are still displayed, confirming that data persists across page reloads.
 #### Editing Tasks
 - Click the edit button (pencil icon) next to a task.
 - The task should reappear in the input field for editing.
 - Make changes to the task and click "Save".
 - Verify that the task is updated in the list.
-- Check local storage to ensure the changes are saved.
 #### Deleting Tasks
 - Click the delete button (trash icon) next to a task.
 - Verify that the task is removed from the list.
-- Check local storage to ensure the task is removed.
 #### Marking Tasks as Completed
 - Click the checkbox next to a task to mark it as completed.
 - Verify that the task text is struck through, indicating completion.
-- Check local storage to ensure the task's completion status is saved.
 #### Filtering Tasks
 - Use the filter buttons ("All", "Active", "Completed") to switch between different views.
 - Verify that only tasks matching the selected filter are displayed.
-#### Debugging
-- Use the browser console to log the todos state at various points if needed.
-- Check the local storage directly (in the browser's developer tools) to verify that the todos array is being saved and retrieved correctly.
 
   
