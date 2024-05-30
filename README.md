@@ -17,17 +17,17 @@ This project is a simple to-do list application built with React. The applicatio
 - Ensure you have Node.js and npm installed on your machine.
 
 ### Installation
-- Clone the repository:
+- Clone the repository:<br />
 git clone https://github.com/yourusername/todo-app.git
 
-- Navigate to the project directory:
+- Navigate to the project directory:<br />
 cd todo-app
 
-- Install the dependencies:
+- Install the dependencies:<br />
 npm install
 
 ### Running the Application
-- To start the application, run:
+- To start the application, run:<br />
 npm run dev
 
 - This will open the application in your default web browser.
